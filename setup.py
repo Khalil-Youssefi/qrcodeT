@@ -12,6 +12,6 @@ setup(
 
     py_modules=['qrcodeT'],
     install_requires=[
-    'returns-decorator',
+    'qrcode[pil]',
     ],
 )
