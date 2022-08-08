@@ -7,4 +7,5 @@ import qrcodeT
 qrcodeT.qrcodeT('https://github.com/Khalil-Youssefi/qrcodeT')
 ```
 and the output will be:
+
 ![sample output](./qrcodeT_sample.JPG)
