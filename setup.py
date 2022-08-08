@@ -11,4 +11,7 @@ setup(
     author_email='kh4lil@outlook.com',
 
     py_modules=['qrcodeT'],
+    install_requires=[
+    'returns-decorator',
+    ],
 )
