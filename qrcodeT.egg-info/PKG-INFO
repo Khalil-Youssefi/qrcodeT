@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: qrcodeT
+Version: 1.0.2
+Summary: UNKNOWN
+Home-page: https://github.com/Khalil-Youssefi/qrcodeT
+Author: Khalil Youssefi
+Author-email: kh4lil@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # qrcodeT
 This simple library generates text-based QR codes to be used directly in the console (terminal).
 ## Usage
@@ -9,3 +22,5 @@ qrcodeT.qrcodeT('https://github.com/Khalil-Youssefi/qrcodeT')
 and the output will be:
 
 ![[sample output on github page](https://github.com/Khalil-Youssefi)](./qrcodeT_sample.JPG)
+
+

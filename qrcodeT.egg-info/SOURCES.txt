@@ -1,0 +1,10 @@
+LICENSE
+README.md
+qrcodeT.py
+setup.cfg
+setup.py
+qrcodeT.egg-info/PKG-INFO
+qrcodeT.egg-info/SOURCES.txt
+qrcodeT.egg-info/dependency_links.txt
+qrcodeT.egg-info/requires.txt
+qrcodeT.egg-info/top_level.txt
