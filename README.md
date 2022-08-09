@@ -1,5 +1,14 @@
 # qrcodeT
 This simple library generates text-based QR codes to be used directly in the console (terminal).
+## Installation
+using pip:
+```
+pip install qrcodeT
+```
+or directly from here:
+```
+pip install git+git://github.com/Khalil-Youssefi/qrcodeT.git#egg=qrcodeT
+```
 ## Usage
 You can directly use this library to create a QR code from a text and directly print it on the console:
 ```
