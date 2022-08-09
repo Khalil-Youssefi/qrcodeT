@@ -1,4 +1,3 @@
-__version__ = 'v1.0.2'
 import qrcode
 import numpy as np
 

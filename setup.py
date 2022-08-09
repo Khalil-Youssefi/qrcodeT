@@ -1,10 +1,8 @@
 from setuptools import setup
 
-from qrcodeT import __version__
-
 setup(
     name='qrcodeT',
-    version=__version__,
+    version='v1.0.3',
 
     url='https://github.com/Khalil-Youssefi/qrcodeT',
     author='Khalil Youssefi',
