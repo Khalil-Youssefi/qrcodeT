@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='qrcodeT',
-    version='v1.0.3',
+    version='v1.0.4',
 
     url='https://github.com/Khalil-Youssefi/qrcodeT',
     author='Khalil Youssefi',
@@ -11,5 +11,6 @@ setup(
     py_modules=['qrcodeT'],
     install_requires=[
     'qrcode[pil]',
+    'numpy',
     ],
 )
